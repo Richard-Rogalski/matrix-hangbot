@@ -9,7 +9,7 @@ public class Main{
 	static final String homeserverUrl = "http://matrix.org";
 
 	// Access token, see the matrix documentation for more info
-	static final String accessToken = "syt_aGFuZ2JvdA_MtrlPeGYzgmkhlcgnqHg_0O8Mju";
+	static final String accessToken = "put your access token here, remember to remove it if pushing to git";
 
 	// The map, where the room ID is the key, and the value contains a nesed map of the word to guess, how much of the word is currently guessed, and how many guesses are left
 	static Map<String, Map> map;
